@@ -3,7 +3,7 @@
 
 date: 2020-08-13
 
-![dog](https://ddog.nl/img/DDOG1b.png))
+![dog](https://ddog.nl/img/DDOG1b.png)
 
 With the first edition of DDOG just one week away, we are proud to announce our these great speakers!
 
@@ -50,12 +50,12 @@ The event will take place on the 13th of August, all times here are listed in CE
 
 The schedule for the night is as follows:
 
-|||
+||||
 |--|--|--|
-|19:00 |19:15 |  Introduction - [Barbara Forbes](https://twitter.com/Ba4bes) & [Jaap Brasser](https://twitter.com/Jaap_Brasser)|
+|19:00 |19:15 |Introduction - [Barbara Forbes](https://twitter.com/Ba4bes) & [Jaap Brasser](https://twitter.com/Jaap_Brasser)|
 |19:15 |20:15 |Deep-dive into Codespaces on GitHub - [Martin Woodward](https://twitter.com/martinwoodward)|
 |20:15 |20:45 |How-to: Auto reply to GitHub issues - [Barbara Forbes](https://twitter.com/Ba4bes)|
-|20:45 |21:30| Infrastructure as Code: Scaling deployments across customers - [Wesley Haakman](https://twitter.com/whaakman)|
+|20:45 |21:30|Infrastructure as Code: Scaling deployments across customers - [Wesley Haakman](https://twitter.com/whaakman)|
 
 ### Location
 
